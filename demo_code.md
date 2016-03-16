@@ -104,5 +104,5 @@
 	    scale_y_log10() +
 	    labs(x="test value", y="prob")
 <p align="center">
-  <img src="plot1.png" width="350"/>
+  <img src="plot2.png" width="350"/>
 </p>

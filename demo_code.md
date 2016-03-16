@@ -75,7 +75,7 @@
 	svd.out=irlba(MAT.bin, 25, 25, tol=1e-10)
 	plot(svd.out$d)
 <p align="center">
-  <img src="plot1.png" width="350"/>
+  <img src="plot1.png" width="600"/>
 </p>
 
 # Do SVD
@@ -104,5 +104,5 @@
 	    scale_y_log10() +
 	    labs(x="test value", y="prob")
 <p align="center">
-  <img src="plot2.png" width="350"/>
+  <img src="plot2.png" width="600"/>
 </p>
